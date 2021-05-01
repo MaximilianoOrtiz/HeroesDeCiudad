@@ -1,0 +1,13 @@
+C:\Users\pc\Desktop\Heroes\Heroes\bin\Debug\netcoreapp3.1\Heroes.exe
+C:\Users\pc\Desktop\Heroes\Heroes\bin\Debug\netcoreapp3.1\Heroes.deps.json
+C:\Users\pc\Desktop\Heroes\Heroes\bin\Debug\netcoreapp3.1\Heroes.runtimeconfig.json
+C:\Users\pc\Desktop\Heroes\Heroes\bin\Debug\netcoreapp3.1\Heroes.runtimeconfig.dev.json
+C:\Users\pc\Desktop\Heroes\Heroes\bin\Debug\netcoreapp3.1\Heroes.dll
+C:\Users\pc\Desktop\Heroes\Heroes\bin\Debug\netcoreapp3.1\Heroes.pdb
+C:\Users\pc\Desktop\Heroes\Heroes\obj\Debug\netcoreapp3.1\Heroes.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Heroes\Heroes\obj\Debug\netcoreapp3.1\Heroes.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Heroes\Heroes\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Heroes\Heroes\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfo.cs
+C:\Users\pc\Desktop\Heroes\Heroes\obj\Debug\netcoreapp3.1\Heroes.dll
+C:\Users\pc\Desktop\Heroes\Heroes\obj\Debug\netcoreapp3.1\Heroes.pdb
+C:\Users\pc\Desktop\Heroes\Heroes\obj\Debug\netcoreapp3.1\Heroes.genruntimeconfig.cache
