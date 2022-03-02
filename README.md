@@ -1,6 +1,6 @@
 # Heroes De Ciudad
 
-## Descrip
+## Descripcióm
 
 Este repositorio contiene el trabajo realizado en toda la cursada de metodología de programación 1  de la carrera Ing. Informática.
 Aquí se pone en práctica la teoría de  patrones de diseños: Estructurales, Creacionales y de Comportamiento. Como también profundizar en POO.
@@ -11,4 +11,7 @@ Se puede encontrar mas información de cada simulación y su solución en  los a
 ## Instalación
 
 Este proyecto está pensado para ejecutarse localmente. Las tecnologías implicadas son:
-C#, Visual Studio 2019, .Net Core.
+
+* C#
+* .Net Core 3.1
+* Visual Studio 2019
