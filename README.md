@@ -1,4 +1,4 @@
-
+# HeroesDeCiudad
 
 ## Descripción
 
@@ -8,13 +8,13 @@ Aquí se pone en práctica la teoría de  patrones de diseños: Estructurales, C
 EL proyecto tiene como  fin  proveer la infraestructura  para el desarrollo  de problemas en una ciudad y sus respectivas soluciones.
 Se puede encontrar mas información de cada simulación y su solución en  los archivos pdf situados en la carpeta : Enunciados del Trabajo integrador.
 
-## Instalacion 
+## Instalación 
 
 Este proyecto está pensado para ejecutarse localmente. 
 
 Asegúrese de tener instalado git y  clone el repositorio.
 ```bash
-git clone https://github.com/MaximilianoOrtiz/HeroesDeCiudad
+git clone  https://github.com/MaximilianoOrtiz/HeroesDeCiudad
 ```
 Debe contar con las siguientes tecnologías.
 * C#
