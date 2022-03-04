@@ -1,24 +1,24 @@
-# HeroesDeCiudad
+#CityHeroes
 
-## Descripción
+## Description
 
-Este repositorio contiene el trabajo realizado en toda la cursada de metodología de programación 1  de la carrera Ing. Informática.
-Aquí se pone en práctica la teoría de  patrones de diseños: Estructurales, Creacionales y de Comportamiento. Como también profundizar en POO.
+This repository contains the work carried out in the entire course of programming methodology 1 of the Computer Engineering career.
+Here the theory of design patterns is put into practice: Structural, Creational and Behavioral. As well as delve into OOP.
 
-EL proyecto tiene como  fin  proveer la infraestructura  para el desarrollo  de problemas en una ciudad y sus respectivas soluciones.
-Se puede encontrar mas información de cada simulación y su solución en  los archivos pdf situados en la carpeta : Enunciados del Trabajo integrador.
+The purpose of the project is to provide the infrastructure for the development of problems in a city and their respective solutions.
+More information on each simulation and its solution can be found in the pdf files located in the folder: Integrator Statements of Work.
 
-## Instalación 
+## Installation
 
-Este proyecto está pensado para ejecutarse localmente. 
+This project is intended to be run locally.
 
-Asegúrese de tener instalado git y  clone el repositorio.
+Make sure you have git installed and clone the repository.
 ```bash
-git clone  https://github.com/MaximilianoOrtiz/HeroesDeCiudad
+git clone https://github.com/MaximilianoOrtiz/HeroesDeCiudad
 ```
-Debe contar con las siguientes tecnologías.
+You must have the following technologies.
 * C#
-* .Net Core 3.1
-* Visual Studio 2019
+*.Net Core 3.1
+*Visual Studio 2019
 
-Ejecute la solución y corra el programa.
+Run the solution and run the program.
